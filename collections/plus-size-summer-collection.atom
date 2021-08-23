@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wazziswear.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wazziswear.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wazziswear.ca/collections/plus-size-summer-collection.atom"/>
+  <title>Wazzi&apos;s Wear</title>
+  <updated>2021-05-08T19:17:04-05:00</updated>
+  <author>
+    <name>Wazzi&apos;s Wear</name>
+  </author>
+  <entry>
+    <id>https://wazziswear.ca/products/6576389652593</id>
+    <published>2021-05-08T19:17:04-05:00</published>
+    <updated>2021-05-08T19:17:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-be-kind-a-line-tank-top-2"/>
+    <title>Plus Size Be Kind A-Line Tank Top</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/FC4D6CD2-2FD9-4A5F-BEBE-1392B31BE71C_415a749a-5622-4c90-8bc4-960d1b50430e.jpg?v=1620050446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>95% Rayon, 5% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6576389652593</id>
+      <title>1X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CP45</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6576389652593</id>
+      <title>2X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CP45</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6576389652593</id>
+      <title>3X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CP45</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6576389816433</id>
+    <published>2021-05-08T19:16:39-05:00</published>
+    <updated>2021-05-08T19:16:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-be-kind-a-line-tank-top-3"/>
+    <title>Plus Size Be Kind A-Line Tank Top</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/44AF9A75-889B-430C-BD0D-A72CD15AC540_714bad29-ae90-461c-9db7-62a6d77b4b19.jpg?v=1620050498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>95% Rayon, 5% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6576389816433</id>
+      <title>2X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CP35</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6576390635633</id>
+    <published>2021-05-08T19:15:11-05:00</published>
+    <updated>2021-05-08T19:15:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-throw-kindness-a-line-tank-top-2"/>
+    <title>Plus Size Throw Kindness A-Line Tank Top</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/BCEFF030-765A-4203-803B-DF03EC581CB1_350b60ae-9463-4d6d-b5f0-370769aa03f0.jpg?v=1620050725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>95% Rayon, 5% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6576390635633</id>
+      <title>2X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CP55</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6576390635633</id>
+      <title>3X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CP55</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6576392798321</id>
+    <published>2021-05-08T19:11:55-05:00</published>
+    <updated>2021-05-08T19:11:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-be-kind-short-sleeve-top"/>
+    <title>Plus Size Be Kind Short Sleeve Top</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/B8F4824B-EC34-4104-AF36-C7E04E52496A.jpg?v=1620051323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Order one size up for looser fit.</p>
+<p><strong>Material: </strong>95% Rayon, 5% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6576392798321</id>
+      <title>XL</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>CP53</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6576392798321</id>
+      <title>1X</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>CP53</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6576392798321</id>
+      <title>2X</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>CP53</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6576392798321</id>
+      <title>3X</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>CP53</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6557212508273</id>
+    <published>2021-04-02T12:37:39-05:00</published>
+    <updated>2021-04-02T12:37:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-mom-life-a-line-tank-top"/>
+    <title>Plus Size Mom Life A-Line Tank Top</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/D79A8D41-49F1-4C60-AA70-48BF0C9BE288.jpg?v=1616848773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Order one size up for looser fit.</p>
+<p><strong>Material: </strong>95% Rayon, 5% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6557212508273</id>
+      <title>2X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CP44</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6557212508273</id>
+      <title>3X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CP44</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6557214802033</id>
+    <published>2021-04-02T12:31:34-05:00</published>
+    <updated>2021-04-02T12:31:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-throw-kindness-a-line-tank-top-1"/>
+    <title>Plus Size Throw Kindness A-Line Tank Top</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/FE466B55-D1B5-48FB-A085-9605A2892228.jpg?v=1616849173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Order one size up for looser fit.</p>
+<p><strong>Material: </strong>95% Rayon, 5% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6557214802033</id>
+      <title>2X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CP51</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6557215686769</id>
+    <published>2021-04-02T12:29:41-05:00</published>
+    <updated>2021-04-02T12:29:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-choose-kind-a-line-tank-top"/>
+    <title>Plus Size Choose Kind A-Line Tank Top</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/86012B29-1F9F-460A-A79F-7D8DDCF68148.jpg?v=1616849299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Order one size up for looser fit.</p>
+<p><strong>Material: </strong>95% Rayon, 5% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6557215686769</id>
+      <title>2X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CP39</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6557233774705</id>
+    <published>2021-04-02T12:12:53-05:00</published>
+    <updated>2021-04-02T12:12:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-shorts-with-drawstring-waist-and-side-pockets"/>
+    <title>Plus Size Shorts with Drawstring Waist and Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/A2AFA620-14DB-4845-8D2B-2E7FD1056E34.jpg?v=1616852067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>﻿57% Polyester, 38% Rayon, 5% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Machine wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6557233774705</id>
+      <title>3X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>ZP43</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6557228073073</id>
+    <published>2021-04-02T12:01:29-05:00</published>
+    <updated>2021-04-02T12:01:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-sleeveless-tunic-with-side-pockets"/>
+    <title>Plus Size Sleeveless Tunic with Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/AC2C8D5E-5A2C-41EE-A412-1FA3EE846294.jpg?v=1616851307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>﻿57% Polyester, 38% Rayon, 5% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Machine wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6557228073073</id>
+      <title>1X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>ZP16</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6557228073073</id>
+      <title>2X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>ZP16</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6557228073073</id>
+      <title>3X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>ZP16</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6539969560689</id>
+    <published>2021-03-17T19:30:35-05:00</published>
+    <updated>2021-03-17T19:30:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-camo-capris"/>
+    <title>Plus Size Camo Capris</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/68EB08BD-C7AE-465A-BF56-46587D4A1438.jpg?v=1614905545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Fit: </strong>﻿O/S, fits 12-16</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539969560689</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>CP68</s:sku>
+      <s:grams>115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6539970150513</id>
+    <published>2021-03-17T19:30:07-05:00</published>
+    <updated>2021-03-17T19:30:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-polka-dot-capris"/>
+    <title>Plus Size Polka Dot Capris</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/72058651-88A9-4ECF-AC54-8BB4C7BEA6A3.jpg?v=1614905733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Fit: </strong>﻿O/S, fits 12-16</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539970150513</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>CP88</s:sku>
+      <s:grams>115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6539970642033</id>
+    <published>2021-03-17T19:29:02-05:00</published>
+    <updated>2021-03-17T19:29:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-leopard-print-capris"/>
+    <title>Plus Size Leopard Print Capris</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/845BB1F6-9DBE-44CD-9B79-15608B2FEA6A.jpg?v=1614905887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Fit: </strong>﻿O/S, fits 12-16</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539970642033</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>CP63</s:sku>
+      <s:grams>115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6541709738097</id>
+    <published>2021-03-17T19:08:33-05:00</published>
+    <updated>2021-03-17T19:08:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-camo-shorts-with-side-pockets"/>
+    <title>Plus Size Camo Shorts with Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/15B39F48-7845-4999-8C8E-25C45E0B7CA9.jpg?v=1615121548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Smaller fit.</p>
+<p><strong>Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6541709738097</id>
+      <title>2X/3X-fits like 1X</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>DS02</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6541711343729</id>
+    <published>2021-03-17T19:04:34-05:00</published>
+    <updated>2021-03-17T19:04:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-leopard-print-shorts"/>
+    <title>Plus Size Leopard Print Shorts</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/7BA0228C-FA33-44D7-88BB-069B685A7C21.jpg?v=1615121750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Order one size up for looser fit.</p>
+<p><strong>Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6541711343729</id>
+      <title>XL/1X</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LP02</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6541711343729</id>
+      <title>1X/2X</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LP02</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6541711343729</id>
+      <title>2X/3X</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LP02</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6541714063473</id>
+    <published>2021-03-17T18:57:00-05:00</published>
+    <updated>2021-03-17T18:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-leopard-print-swing-dress-with-side-pockets"/>
+    <title>Plus Size Leopard Print Swing Dress with Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/65F7F66F-95A5-4E26-9897-C78909532CD6.jpg?v=1615122226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>Rayon, Polyester, Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6541714063473</id>
+      <title>1X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>LP77</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6541714063473</id>
+      <title>2X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>LP77</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6541714063473</id>
+      <title>3X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>LP77</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6541716029553</id>
+    <published>2021-03-17T18:53:35-05:00</published>
+    <updated>2021-03-17T18:53:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-animal-print-tunic-dress-with-side-pockets"/>
+    <title>Plus Size Animal Print Tunic Dress with Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/66AC17CC-BADC-4EF5-B699-C38BD794919F.jpg?v=1615122559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>96% Polyester, 4% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6541716029553</id>
+      <title>1X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>TP75</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6541716029553</id>
+      <title>2X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>TP75</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6541716029553</id>
+      <title>3X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>TP75</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4653796884593</id>
+    <published>2021-02-03T13:49:22-06:00</published>
+    <updated>2021-02-03T13:49:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/extra-plus-size-capris-with-elastic-waistband"/>
+    <title>Extra Plus Size Capris with Elastic Waistband</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/8798E789-DDB8-4D51-8409-307BE5FC037D.jpg?v=1611664801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Fit: </strong>﻿O/S fits 16-20</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653796884593</id>
+      <title>Navy</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LN12</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653796884593</id>
+      <title>Black</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LB12</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4653819789425</id>
+    <published>2021-02-03T13:37:28-06:00</published>
+    <updated>2021-02-03T13:37:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-yoga-waistband-capris-1"/>
+    <title>Plus Size Yoga Waistband Capris</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/3DFFC843-E90B-4DDF-AE5A-ED7CE1BFABEA_3156b3f2-baf6-43e9-a81d-4faaaa3352d3.jpeg?v=1611665531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit:</strong> ﻿﻿Plus size, fits 10-14/16.</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry. </p>
+<p>﻿</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653819789425</id>
+      <title>Black</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>CPX2</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653819789425</id>
+      <title>Burgundy</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>CPX3</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653819789425</id>
+      <title>Navy</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>CPX4</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4653847117937</id>
+    <published>2021-02-03T12:49:54-06:00</published>
+    <updated>2021-02-03T12:49:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-romper-with-ruffle-sleeves-and-side-pockets"/>
+    <title>Plus Size Romper with Ruffle Sleeves and Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/E44F5F7A-C7DF-4A23-B663-0B7B6A96193D.jpg?v=1611666876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>95% Rayon, 5% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Plus Size model is wearing size 1X. In black only.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653847117937</id>
+      <title>1X</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>EP83</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653847117937</id>
+      <title>2X</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>EP83</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653847117937</id>
+      <title>3X</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>EP83</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4653839777905</id>
+    <published>2021-02-03T12:33:51-06:00</published>
+    <updated>2021-02-03T12:33:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-sleeveless-dress-with-keyhole-and-front-tie"/>
+    <title>Plus Size Sleeveless Dress with Keyhole and Front Tie</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/94DA9A75-E772-4FDE-BD57-A137A03C1240.jpg?v=1611666543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>95% Rayon, 5% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing size 1X.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653839777905</id>
+      <title>2X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP58</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/2350761836657</id>
+    <published>2019-03-13T18:09:28-05:00</published>
+    <updated>2019-03-13T18:09:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/extra-plus-size-capris-with-yoga-waistband"/>
+    <title>Extra Plus Size Capris with Yoga Waistband</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/192EE9BC-416B-4F29-BE74-D80FFFAAD04B.jpeg?v=1552044457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Fit: </strong>﻿O/S fits 16-18</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/2350761836657</id>
+      <title>Navy</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>L013</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/2350761836657</id>
+      <title>Burgundy</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>L014</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+  </entry>
+</feed>

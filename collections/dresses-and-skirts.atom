@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wazziswear.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wazziswear.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wazziswear.ca/collections/dresses-and-skirts.atom"/>
+  <title>Wazzi&apos;s Wear</title>
+  <updated>2021-05-08T19:12:55-05:00</updated>
+  <author>
+    <name>Wazzi&apos;s Wear</name>
+  </author>
+  <entry>
+    <id>https://wazziswear.ca/products/6576391782513</id>
+    <published>2021-05-08T19:12:55-05:00</published>
+    <updated>2021-05-08T19:12:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/be-kind-sleeveless-dress"/>
+    <title>Be Kind Sleeveless Dress</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/9B46327E-4C79-409C-87C0-0547296F1392.jpg?v=1620051108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>95% Rayon, 5% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6576391782513</id>
+      <title>S/M</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>P453</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4653850296433</id>
+    <published>2021-02-03T12:24:00-06:00</published>
+    <updated>2021-02-03T12:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/romper-with-ruffle-sleeves-and-side-pockets"/>
+    <title>Romper with Ruffle Sleeves and Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/E44F5F7A-C7DF-4A23-B663-0B7B6A96193D_a8d61a7d-902c-4800-b07b-f5d3ca66fb15.jpg?v=1611667009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit.</p>
+<p><strong>Material: </strong>95% Rayon, 5% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing S/M.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653850296433</id>
+      <title>S/M</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>ER83</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+</feed>

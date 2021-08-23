@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wazziswear.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wazziswear.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wazziswear.ca/collections/bottoms-s-xl.atom"/>
+  <title>Wazzi&apos;s Wear</title>
+  <updated>2021-08-08T11:39:46-05:00</updated>
+  <author>
+    <name>Wazzi&apos;s Wear</name>
+  </author>
+  <entry>
+    <id>https://wazziswear.ca/products/6611696779377</id>
+    <published>2021-08-08T11:39:46-05:00</published>
+    <updated>2021-08-08T11:39:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/yoga-waist-activewear-legging-with-side-pocket"/>
+    <title>Yoga Waist Activewear Legging with Side Pocket</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/87DA41B3-0273-495A-9C8C-4644951BA08E.jpg?v=1627519830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>84% Polyester, 16% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Machine was cold. </p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611696779377</id>
+      <title>S</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>AC12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611696779377</id>
+      <title>M</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>AC12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611696779377</id>
+      <title>L</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>AC12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611696779377</id>
+      <title>XL</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>AC12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6610137055345</id>
+    <published>2021-08-08T11:39:17-05:00</published>
+    <updated>2021-08-08T11:39:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/animal-print-lounge-pants-with-high-drawstring-waist-and-pockets"/>
+    <title>Animal Print Lounge Pants with High Drawstring Waist and Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/E9CB394C-D52B-4F23-8A24-3F27CF7B5C8B.jpg?v=1627240371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610137055345</id>
+      <title>S</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>AN15</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610137055345</id>
+      <title>M</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>AN15</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610137055345</id>
+      <title>L</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>AN15</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610137055345</id>
+      <title>XL</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>AN15</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6610136924273</id>
+    <published>2021-08-08T11:39:16-05:00</published>
+    <updated>2021-08-08T11:39:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/tie-dye-lounge-pants-with-high-drawstring-waist-and-pockets-1"/>
+    <title>Tie Dye Lounge Pants with High Drawstring Waist and Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/5578D000-93CE-443C-BB9B-395797FCEC06.jpg?v=1627240106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136924273</id>
+      <title>S</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>TD52</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136924273</id>
+      <title>M</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>TD52</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136924273</id>
+      <title>L</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>TD52</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136924273</id>
+      <title>XL</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>TD52</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6610136793201</id>
+    <published>2021-08-08T11:39:15-05:00</published>
+    <updated>2021-08-08T11:39:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plaid-lounge-pants-with-high-drawstring-waist"/>
+    <title>Plaid Lounge Pants with High Drawstring Waist</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/5C86A27D-260A-43C8-8CC5-73D2296BB7A6.jpg?v=1627239864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136793201</id>
+      <title>S</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>PL66</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136793201</id>
+      <title>M</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>PL66</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136793201</id>
+      <title>L</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>PL66</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136793201</id>
+      <title>XL</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>PL66</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6610136465521</id>
+    <published>2021-08-08T11:39:13-05:00</published>
+    <updated>2021-08-08T11:39:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/camo-joggers-with-drawstring-waistband-pockets-and-cuffed-hems"/>
+    <title>Camo Joggers with Drawstring Waistband, Pockets, and Cuffed Hems</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/91EE1BA7-ECFA-402C-BB3A-BA0AACE26A91.jpg?v=1627239458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136465521</id>
+      <title>S</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CA21</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136465521</id>
+      <title>M</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CA21</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136465521</id>
+      <title>L</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CA21</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136465521</id>
+      <title>XL</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CA21</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6610135187569</id>
+    <published>2021-08-08T11:39:12-05:00</published>
+    <updated>2021-08-08T11:39:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/joggers-with-drawstring-waistband-pockets-and-cuffed-hems-1"/>
+    <title>Joggers with Drawstring Waistband, Pockets, and Cuffed Hems</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/1D806C0D-E392-4932-811B-6873B518596E.jpg?v=1627239107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610135187569</id>
+      <title>S / Black</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JG12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610135187569</id>
+      <title>S / Burgundy</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JG13</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610135187569</id>
+      <title>M / Black</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JG12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610135187569</id>
+      <title>M / Burgundy</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JG13</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610135187569</id>
+      <title>L / Black</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JG12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610135187569</id>
+      <title>L / Burgundy</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JG13</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610135187569</id>
+      <title>XL / Black</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JG12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610135187569</id>
+      <title>XL / Burgundy</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JG13</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6539970838641</id>
+    <published>2021-03-17T19:28:19-05:00</published>
+    <updated>2021-03-17T19:28:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/camo-capris"/>
+    <title>Camo Capris</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/D7ACED8C-4671-4C5F-9405-1E888A1F844E.jpg?v=1614905953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Fit: </strong>﻿O/S, fits 2-10.</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539970838641</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>CR68</s:sku>
+      <s:grams>115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6539971297393</id>
+    <published>2021-03-17T19:27:33-05:00</published>
+    <updated>2021-03-17T19:27:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/polka-dot-capris"/>
+    <title>Polka Dot Capris</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/5DE5CF19-DD05-4ED1-AF49-C2BBFA840BE0.jpg?v=1614906066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Fit: </strong>﻿O/S, fits 2-10.</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539971297393</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>CR88</s:sku>
+      <s:grams>115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6539971756145</id>
+    <published>2021-03-17T19:26:59-05:00</published>
+    <updated>2021-03-17T19:26:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/tie-dye-capris"/>
+    <title>Tie Dye Capris</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/12355A7C-81CB-4170-B5C0-E058A19AB1A9.jpg?v=1614906114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Fit: </strong>﻿O/S, fits 2-10.</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539971756145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>CR95</s:sku>
+      <s:grams>115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6539972182129</id>
+    <published>2021-03-17T19:26:11-05:00</published>
+    <updated>2021-03-17T19:26:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/leopard-print-capris"/>
+    <title>Leopard Print Capris</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/DEF91EC9-79B6-48D4-8750-B46EF0EC56CF.jpg?v=1614906174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Fit: </strong>﻿O/S, fits 2-10.</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539972182129</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>CR63</s:sku>
+      <s:grams>115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6539973230705</id>
+    <published>2021-03-17T19:25:27-05:00</published>
+    <updated>2021-03-17T19:25:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/leopard-print-shorts-with-side-pockets"/>
+    <title>Leopard Print Shorts with Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/C569DE40-34EF-4C0E-A143-62EF9DB09FE0.jpg?v=1614906438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539973230705</id>
+      <title>S</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LQ51</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539973230705</id>
+      <title>M</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LQ51</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6539975196785</id>
+    <published>2021-03-17T19:24:37-05:00</published>
+    <updated>2021-03-17T19:24:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/polka-dot-shorts-with-side-pockets"/>
+    <title>Polka Dot Shorts with Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/CF676BC0-2FC9-40A5-A4CD-8CBD25C5C80E.jpg?v=1614906622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539975196785</id>
+      <title>S</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>HS88</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539975196785</id>
+      <title>M</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>HS88</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6539975819377</id>
+    <published>2021-03-17T19:23:59-05:00</published>
+    <updated>2021-03-17T19:23:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/tie-dye-shorts-with-side-pockets"/>
+    <title>Tie Dye Shorts with Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/D83F9D96-F026-486C-A462-5B7273B1EBF1.jpg?v=1614906713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539975819377</id>
+      <title>S</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>HS77</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539975819377</id>
+      <title>M</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>HS77</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6539976507505</id>
+    <published>2021-03-17T19:22:38-05:00</published>
+    <updated>2021-03-17T19:22:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/camo-shorts-with-side-pockets"/>
+    <title>Camo Shorts with Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/CD66D906-9907-476E-A4EC-15F304C9C64F.jpg?v=1614906795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539976507505</id>
+      <title>S</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>HS51</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6539977654385</id>
+    <published>2021-03-17T19:21:27-05:00</published>
+    <updated>2021-03-17T19:21:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/tie-dye-legging-with-yoga-waistband"/>
+    <title>Tie Dye Legging with Yoga Waistband</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/F7D0287E-2759-4B20-BCA8-3BEB64770666.jpg?v=1614906968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Fit: </strong>﻿O/S fits 2-10.</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539977654385</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>TD98</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6541708886129</id>
+    <published>2021-03-17T19:10:11-05:00</published>
+    <updated>2021-03-17T19:10:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/solid-black-shorts-with-side-pockets"/>
+    <title>Solid Black Shorts with Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/283A06BF-ADAF-4AAF-A169-C7550853D429.jpg?v=1615121321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6541708886129</id>
+      <title>S/M (4/6)</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>NS01</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4653807140977</id>
+    <published>2021-02-03T13:43:43-06:00</published>
+    <updated>2021-02-03T13:43:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/solid-black-legging-with-elastic-waistband-1"/>
+    <title>Solid Black Legging with Elastic Waistband</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/9E8CFDD7-1FE2-48CC-BC09-52375290DD70_b1eaaf4f-d112-40b3-b18c-2b29dea2a509.jpg?v=1611664976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit:</strong> ﻿﻿O/S fits 2-12.</p>
+<p><strong>Material:</strong> 92% Polyester, 8% Spandex.</p>
+<p><strong>Care:</strong> Hand wash in cold water. Hang to dry.﻿</p>
+<p>Black only.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653807140977</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>28BL</s:sku>
+      <s:grams>163</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4636372664433</id>
+    <published>2021-01-02T06:55:40-06:00</published>
+    <updated>2021-01-02T06:55:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/lounge-pants-with-high-drawstring-waist-and-pockets-1"/>
+    <title>Lounge Pants with High Drawstring Waist and Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/3ABFB5D7-A219-4BB0-9CA3-70262A220B23.jpg?v=1608609420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4636372664433</id>
+      <title>S</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LW16</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4636372664433</id>
+      <title>M</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LW16</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4636370862193</id>
+    <published>2021-01-02T06:55:14-06:00</published>
+    <updated>2021-01-02T06:55:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/lounge-pants-with-high-drawstring-waist-and-pockets"/>
+    <title>Lounge Pants with High Drawstring Waist and Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/CFDD2261-61D7-4B04-BCF7-22FF6DEEBF82.jpg?v=1611756860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p>In black, burgundy and navy. </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4636370862193</id>
+      <title>S / Navy</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LW12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4636370862193</id>
+      <title>S / Burgundy</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LW13</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4636370862193</id>
+      <title>M / Navy</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LW12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4636370862193</id>
+      <title>M / Burgundy</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LW13</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4636370862193</id>
+      <title>L / Navy</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LW12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4636370862193</id>
+      <title>L / Burgundy</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LW13</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4636370862193</id>
+      <title>XL / Navy</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LW12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4636370862193</id>
+      <title>XL / Burgundy</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LW13</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4636370862193</id>
+      <title>S / Black</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LW14</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4636370862193</id>
+      <title>M / Black</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LW14</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4636370862193</id>
+      <title>L / Black</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LW14</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4636370862193</id>
+      <title>XL / Black</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LW14</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4582528712817</id>
+    <published>2020-10-10T07:33:07-05:00</published>
+    <updated>2020-10-10T07:33:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/one-size-legging-with-yoga-waistband"/>
+    <title>One Size Legging with Yoga Waistband</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/95827DDA-D6CC-406E-991D-243E10304772_2b37d281-8f88-436c-bab7-28050a87a6e3.jpg?v=1601686509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Fit: </strong>﻿O/S fits 2-10.</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>In black and navy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4582528712817</id>
+      <title>Black</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>YOGB</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4582528712817</id>
+      <title>Navy</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>YOGN</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4582530121841</id>
+    <published>2020-10-10T07:01:37-05:00</published>
+    <updated>2020-10-10T07:01:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/tie-dye-lounge-pants-with-high-drawstring-waist-and-pockets"/>
+    <title>Tie Dye Lounge Pants with High Drawstring Waist and Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/862A51B9-9B9E-4D3E-BFC7-F45D586B0BDE.jpg?v=1601686976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4582530121841</id>
+      <title>M</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LT12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4580275814513</id>
+    <published>2020-10-10T06:12:40-05:00</published>
+    <updated>2020-10-10T06:12:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/fleece-lined-solid-black-legging-with-yoga-waistband"/>
+    <title>Fleece Lined Solid Black Legging with Yoga Waistband</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/F898F7B5-EE3D-450E-A5B6-B4178AAB040F.jpg?v=1601428037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit:</strong> ﻿﻿O/S fits 2-8.</p>
+<p><strong>Material:</strong> 92% Polyester, 8% Spandex.</p>
+<p><strong>Care:</strong> Hand wash in cold water. Hang to dry.﻿</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4580275814513</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.86</s:price>
+      <s:sku>FLE1</s:sku>
+      <s:grams>163</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4585940222065</id>
+    <published>2020-10-10T06:06:12-05:00</published>
+    <updated>2020-10-10T06:06:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/camo-lounge-pants-with-high-drawstring-waist-and-pockets-1"/>
+    <title>Camo Lounge Pants with High Drawstring Waist and Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/8CA78AAC-2AE7-4185-AD66-9CFC7DAC0B05.jpg?v=1602291066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4585940222065</id>
+      <title>M</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LC22</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4582529859697</id>
+    <published>2020-10-10T06:04:30-05:00</published>
+    <updated>2020-10-10T06:04:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/camo-lounge-pants-with-high-drawstring-waist-and-pockets"/>
+    <title>Camo Lounge Pants with High Drawstring Waist and Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/41E16047-0FC9-4A09-A6AB-5FB515899E62.jpg?v=1601686847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4582529859697</id>
+      <title>S</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LC21</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4582529859697</id>
+      <title>M</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LC21</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/3963606433905</id>
+    <published>2019-08-17T08:08:33-05:00</published>
+    <updated>2019-08-17T08:08:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/slim-fit-boot-cut-pants-with-pockets"/>
+    <title>Slim Fit Boot Cut Pants with Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/FB76D548-1998-4E8D-9039-B0BB4DF74AF0.jpeg?v=1566047313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>Slim fit.</p>
+<p><strong>Material: </strong>﻿76% Rayon, 21% Nylon, 3% Spandex. </p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/3963606433905</id>
+      <title>4-6</title>
+      <s:price currency="CAD">17.86</s:price>
+      <s:sku>214M</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wazziswear.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wazziswear.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wazziswear.ca/collections/plus-size-cardigans-sweaters-and-sweatshirts.atom"/>
+  <title>Wazzi&apos;s Wear</title>
+  <updated>2021-08-08T11:39:27-05:00</updated>
+  <author>
+    <name>Wazzi&apos;s Wear</name>
+  </author>
+  <entry>
+    <id>https://wazziswear.ca/products/6611584942193</id>
+    <published>2021-08-08T11:39:27-05:00</published>
+    <updated>2021-08-08T11:39:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-soft-hacci-plaid-cardigan-with-side-pockets"/>
+    <title>Plus Size Soft Hacci Plaid Cardigan with Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/D0A98E4A-EE7D-4D37-BE9D-BBA596424BBE.jpg?v=1627490253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>96% Polyester, 4% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>In black/grey only. </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611584942193</id>
+      <title>1X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP83</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611584942193</id>
+      <title>2X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP83</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611584942193</id>
+      <title>3X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP83</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611584778353</id>
+    <published>2021-08-08T11:39:26-05:00</published>
+    <updated>2021-08-08T11:39:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-tunic-with-green-plaid"/>
+    <title>Plus Size Tunic with Green Plaid</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/96CCD9E6-B55A-4061-A822-98AF0A352FF1.jpg?v=1627490134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>96% Polyester, 4% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing 1X.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611584778353</id>
+      <title>1X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP41</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611584778353</id>
+      <title>2X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP41</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611584778353</id>
+      <title>3X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP41</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611584548977</id>
+    <published>2021-08-08T11:39:25-05:00</published>
+    <updated>2021-08-08T11:39:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-hacci-asymmetrical-top-with-button-detail"/>
+    <title>Plus Size Hacci Asymmetrical Top with Button Detail</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/01442795-218B-4029-8624-A8D53446EE20.jpg?v=1627489966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>Rayon, Polyester, Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing 1X.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611584548977</id>
+      <title>1X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP40</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611584548977</id>
+      <title>2X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP40</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611584548977</id>
+      <title>3X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP40</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611584286833</id>
+    <published>2021-08-08T11:39:24-05:00</published>
+    <updated>2021-08-08T11:39:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-hacci-colorblock-top-with-pocket"/>
+    <title>Plus Size Hacci Colorblock Top with Pocket</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/2B37A55A-59AD-4A4A-8138-593A0C28CA8C.jpg?v=1627489853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>Polyester, Rayon, Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing 1X. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611584286833</id>
+      <title>1X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP78</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611584286833</id>
+      <title>2X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP78</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611584286833</id>
+      <title>3X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP78</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611549028465</id>
+    <published>2021-08-08T11:39:23-05:00</published>
+    <updated>2021-08-08T11:39:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-ribbed-hacci-tunic-with-side-slits"/>
+    <title>Plus Size Ribbed Hacci Tunic with Side Slits</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/7DE4C2F1-0F47-4E9C-8E04-4F983AE1097A.jpg?v=1627481013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size, relaxed fit.</p>
+<p><strong>Material: </strong>96% Polyester, 4% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing 1X.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611549028465</id>
+      <title>1X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP73</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611549028465</id>
+      <title>2X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP73</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611549028465</id>
+      <title>3X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP73</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611548602481</id>
+    <published>2021-08-08T11:39:22-05:00</published>
+    <updated>2021-08-08T11:39:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-hacci-sweater-with-balloon-sleeves-and-button-detail"/>
+    <title>Plus Size Hacci Sweater with Balloon Sleeves and Button Detail</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/F209465E-6377-4FB6-9D4C-E30518399C02.jpg?v=1627480820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>50% Polyester, 45% Rayon, 5% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>In black only. Model is wearing 1X.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611548602481</id>
+      <title>1X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP88</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611548602481</id>
+      <title>2X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP88</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611548602481</id>
+      <title>3X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>EP88</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4653774209137</id>
+    <published>2021-02-03T13:24:55-06:00</published>
+    <updated>2021-02-03T13:24:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-v-neck-tunic-length-sweatshirt-with-side-pockets"/>
+    <title>Black Plus Size V-Neck Tunic Length Sweatshirt with Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/1BE33D9B-8229-48A4-B686-17AFCEF4B38A.jpg?v=1611663620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿<strong>﻿</strong>﻿Relaxed fit.</p>
+<p><b>Material: </b>53% Cotton, 45% Polyester, 2% Spandex.<br></p>
+<p><strong>﻿Care: </strong>﻿Machine wash in cold water. Hang to dry. <br></p>
+<p>Model is wearing 1X.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653774209137</id>
+      <title>1X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>ZP29</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4653785186417</id>
+    <published>2021-02-03T13:21:56-06:00</published>
+    <updated>2021-02-03T13:21:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-v-neck-poncho-top"/>
+    <title>Burgundy Plus Size V-Neck Poncho Top</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/49904882-8007-4ECD-B902-D2ABDF300CFA.jpg?v=1611664030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿<strong>﻿</strong>﻿Larger, relaxed fit.</p>
+<p><b>Material: </b>57% Polyester, 38% Rayon, 5% Spandex.<br></p>
+<p><strong>﻿Care: </strong>﻿Machine wash in cold water. Hang to dry. <br></p>
+<p>Model is wearing 1X.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653785186417</id>
+      <title>3X</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>ZP21</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4653751402609</id>
+    <published>2021-02-03T13:18:06-06:00</published>
+    <updated>2021-02-03T13:18:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/black-plus-size-side-tie-hoodie-with-kangaroo-pocket"/>
+    <title>Black Plus Size Side Tie Hoodie with Kangaroo Pocket</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/63DC2D2E-7A97-4081-99C6-1F724C2216FD.jpg?v=1611662876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit.</p>
+<p><strong>Material:</strong> 53% Cotton, 45% Polyester, 2% Spandex. </p>
+<p><strong>Care: </strong>﻿Machine wash in cold water. Hang to dry.</p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653751402609</id>
+      <title>1X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>ZP28</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4653780762737</id>
+    <published>2021-02-03T13:07:41-06:00</published>
+    <updated>2021-02-03T13:07:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/navy-plus-size-v-neck-tunic-length-sweatshirt-with-side-pockets"/>
+    <title>Navy Plus Size V-Neck Tunic Length Sweatshirt with Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/C222C97C-5B21-470A-933A-5CCF9C51E87F.jpg?v=1611663853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿<strong>﻿</strong>﻿Relaxed fit.</p>
+<p><b>Material: </b>53% Cotton, 45% Polyester, 2% Spandex.<br></p>
+<p><strong>﻿Care: </strong>﻿Machine wash in cold water. Hang to dry. <br></p>
+<p>Model is wearing 1X.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653780762737</id>
+      <title>1X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>ZP92</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653780762737</id>
+      <title>2X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>ZP92</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653780762737</id>
+      <title>3X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>ZP92</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4635970633841</id>
+    <published>2021-01-02T07:05:54-06:00</published>
+    <updated>2021-01-02T07:05:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-striped-hoodie-with-elbow-patch"/>
+    <title>Plus Size Striped Hoodie with Elbow Patch</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/02FF814A-77DA-46FB-B578-8E51AFE22E14.jpg?v=1608521135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size. </p>
+<p><strong>Material:</strong> <strong>﻿</strong>65<strong>%</strong> Polyester, 32% Rayon, 3% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash cold. Hang to dry.</p>
+<p>Model is wearing 1X.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4635970633841</id>
+      <title>3X</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>EP73</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4635969749105</id>
+    <published>2021-01-02T07:03:46-06:00</published>
+    <updated>2021-01-02T07:03:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-plaid-poncho-tunic"/>
+    <title>Plus Size Plaid Poncho Tunic</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/B174A78A-481A-437C-A66E-4A227D92C143.jpg?v=1608519809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size. </p>
+<p><strong>Material: </strong>﻿96% Polyester, 4% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash cold. Hang to dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4635969749105</id>
+      <title>2X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>VP46</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4635970175089</id>
+    <published>2021-01-02T07:02:35-06:00</published>
+    <updated>2021-01-02T07:02:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-knit-top-with-boat-neckline-and-dolman-sleeves"/>
+    <title>Plus Size Knit Top with Boat Neckline and Dolman Sleeves</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/37565DB2-9C09-410A-A4FF-7608B1604696.jpg?v=1608520305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78 - 35.71
+            <a href="https://wazziswear.ca/products/plus-size-knit-top-with-boat-neckline-and-dolman-sleeves">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit.</p>
+<p><strong>Material: </strong>﻿83% Polyester, 14% Rayon, 3% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash cold. Dry flat.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4635970175089</id>
+      <title>1X</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>VP04</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4635970175089</id>
+      <title>2X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>VP04</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4635970175089</id>
+      <title>3X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>VP04</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4635969552497</id>
+    <published>2021-01-02T07:01:54-06:00</published>
+    <updated>2021-01-02T07:01:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-knit-cardigan-with-dolman-sleeves"/>
+    <title>Plus Size Knit Cardigan with Dolman Sleeves</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/6A0B5C8C-218E-4E41-A616-9ABCA9D0B72D.jpg?v=1609507945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit.</p>
+<p><strong>Material: </strong>77% Polyester, 22% Rayon, 1% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash cold. Hang to dry.</p>
+<p>In salmon color only.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4635969552497</id>
+      <title>3X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>VP83</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4635973550193</id>
+    <published>2021-01-02T07:00:37-06:00</published>
+    <updated>2021-01-02T07:00:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-hunter-green-plaid-open-front-cardigan-with-pockets-and-cuffed-sleeves"/>
+    <title>Plus Size Hunter Green Plaid Open Front Cardigan with Pockets and Cuffed Sleeves</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/709BCDFA-7AF6-44E0-904C-D13650CD0E82_80b86854-1a82-486c-b213-227e2af06c2b.jpg?v=1608522367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit.</p>
+<p><strong>Material: </strong>96% Polyester, 4% Spandex. </p>
+<p><strong>Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p>
+<p> <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4635973550193</id>
+      <title>3X</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>907P</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4635972108401</id>
+    <published>2021-01-02T06:59:46-06:00</published>
+    <updated>2021-01-02T06:59:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-cowl-neck-sweater-with-long-sleeves"/>
+    <title>Plus Size Cowl Neck Sweater with Long Sleeves</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/952AC6C8-A1A7-447D-85CD-6ED1BE867E1F.jpg?v=1608521498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size. </p>
+<p><strong>Material: </strong>Rayon, Polyester, Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash cold. Hang to dry.</p>
+<p>Model is wearing 1X.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4635972108401</id>
+      <title>1X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>EP78</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4635972108401</id>
+      <title>3X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>EP78</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4578910240881</id>
+    <published>2020-10-10T06:59:24-05:00</published>
+    <updated>2020-10-10T06:59:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-v-neck-sweatshirt-with-side-pockets"/>
+    <title>Plus Size V-Neck Sweatshirt with Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/7BCD56AF-3B03-4508-BA69-FF1473EF62A8.jpg?v=1601313628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><b>Material: </b>53% Cotton, 45% Polyester, 2% Spandex.<br></p>
+<p><strong>﻿Care: </strong>﻿Machine wash in cold water. Hang to dry. <br></p>
+<p>Model is wearing 1X.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4578910240881</id>
+      <title>1X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>T350</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4578908176497</id>
+    <published>2020-10-10T06:51:42-05:00</published>
+    <updated>2020-10-10T06:51:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-sweatshirt-with-balloon-sleeves"/>
+    <title>Plus Size Sweatshirt with Balloon Sleeves</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/7E6BDFCA-7452-4516-89BE-BBA00DA94476.jpg?v=1601689976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit, true to size.</p>
+<p><b>Material:  </b>55% Cotton, 45% Polyester.<br></p>
+<p><strong>﻿Care: </strong>﻿Machine wash in cold water. Hang to dry. <br><br></p>
+<p>In charcoal only.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4578908176497</id>
+      <title>3X</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>T876</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+</feed>

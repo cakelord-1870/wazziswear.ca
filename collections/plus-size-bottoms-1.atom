@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wazziswear.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wazziswear.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wazziswear.ca/collections/plus-size-bottoms-1.atom"/>
+  <title>Wazzi&apos;s Wear</title>
+  <updated>2021-08-08T11:39:19-05:00</updated>
+  <author>
+    <name>Wazzi&apos;s Wear</name>
+  </author>
+  <entry>
+    <id>https://wazziswear.ca/products/6610137350257</id>
+    <published>2021-08-08T11:39:19-05:00</published>
+    <updated>2021-08-08T11:39:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-plaid-lounge-pants-with-high-drawstring-waist"/>
+    <title>Plus Size Plaid Lounge Pants with High Drawstring Waist</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/4C91D696-B952-486C-91B3-0387D102B7DD.jpg?v=1627240894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610137350257</id>
+      <title>1X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>PL67</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610137350257</id>
+      <title>2X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>PL67</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610137350257</id>
+      <title>3X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>PL67</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6610137219185</id>
+    <published>2021-08-08T11:39:18-05:00</published>
+    <updated>2021-08-08T11:39:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-lounge-pants-with-high-drawstring-waist-and-pockets"/>
+    <title>Plus Size Lounge Pants with High Drawstring Waist and Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/46DEE718-4D15-49B6-BDCA-ED5100C22DF8.jpg?v=1627240543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p>In black and navy. </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610137219185</id>
+      <title>1X / Navy</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>LW22</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610137219185</id>
+      <title>2X / Navy</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>LW22</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610137219185</id>
+      <title>3X / Navy</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>LW22</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610137219185</id>
+      <title>1X / Black</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>LW18</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610137219185</id>
+      <title>2X / Black</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>LW18</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610137219185</id>
+      <title>3X / Black</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>LW18</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6610136662129</id>
+    <published>2021-08-08T11:39:14-05:00</published>
+    <updated>2021-08-08T11:39:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-camo-joggers-with-drawstring-waistband-pockets-and-cuffed-hems"/>
+    <title>Plus Size Camo Joggers with Drawstring Waistband, Pockets, and Cuffed Hems</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/01651CCF-FB66-4296-A4FD-089FA483E586.jpg?v=1627239590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136662129</id>
+      <title>1X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CA22</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136662129</id>
+      <title>2X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CA22</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136662129</id>
+      <title>3X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CA22</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4102378094705</id>
+    <published>2021-08-08T11:39:11-05:00</published>
+    <updated>2021-08-08T11:39:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/extra-plus-size-legging-with-yoga-waistband"/>
+    <title>Black Extra Plus Size Legging with Yoga Waistband</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/B7769AF4-21C2-4919-84E7-E925CFE40A58.jpg?v=1568294131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Fit: </strong>﻿O/S fits 14-18</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4102378094705</id>
+      <title>Black</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>XYBL</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6557233774705</id>
+    <published>2021-04-02T12:12:53-05:00</published>
+    <updated>2021-04-02T12:12:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-shorts-with-drawstring-waist-and-side-pockets"/>
+    <title>Plus Size Shorts with Drawstring Waist and Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/A2AFA620-14DB-4845-8D2B-2E7FD1056E34.jpg?v=1616852067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>﻿57% Polyester, 38% Rayon, 5% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Machine wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6557233774705</id>
+      <title>3X</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>ZP43</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6539969560689</id>
+    <published>2021-03-17T19:30:35-05:00</published>
+    <updated>2021-03-17T19:30:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-camo-capris"/>
+    <title>Plus Size Camo Capris</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/68EB08BD-C7AE-465A-BF56-46587D4A1438.jpg?v=1614905545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Fit: </strong>﻿O/S, fits 12-16</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539969560689</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>CP68</s:sku>
+      <s:grams>115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6539970150513</id>
+    <published>2021-03-17T19:30:07-05:00</published>
+    <updated>2021-03-17T19:30:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-polka-dot-capris"/>
+    <title>Plus Size Polka Dot Capris</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/72058651-88A9-4ECF-AC54-8BB4C7BEA6A3.jpg?v=1614905733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Fit: </strong>﻿O/S, fits 12-16</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539970150513</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>CP88</s:sku>
+      <s:grams>115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6539970642033</id>
+    <published>2021-03-17T19:29:02-05:00</published>
+    <updated>2021-03-17T19:29:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-leopard-print-capris"/>
+    <title>Plus Size Leopard Print Capris</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/845BB1F6-9DBE-44CD-9B79-15608B2FEA6A.jpg?v=1614905887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Fit: </strong>﻿O/S, fits 12-16</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539970642033</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>CP63</s:sku>
+      <s:grams>115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6539978801265</id>
+    <published>2021-03-17T19:20:50-05:00</published>
+    <updated>2021-03-17T19:20:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-tie-dye-legging-with-yoga-waistband"/>
+    <title>Plus Size Tie Dye Legging with Yoga Waistband</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/6C6E8261-90B8-499F-AB3B-CF639771B498.jpg?v=1614907139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Fit: </strong>﻿O/S fits 10-14</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6539978801265</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>TP98</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6541709738097</id>
+    <published>2021-03-17T19:08:33-05:00</published>
+    <updated>2021-03-17T19:08:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-camo-shorts-with-side-pockets"/>
+    <title>Plus Size Camo Shorts with Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/15B39F48-7845-4999-8C8E-25C45E0B7CA9.jpg?v=1615121548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Smaller fit.</p>
+<p><strong>Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6541709738097</id>
+      <title>2X/3X-fits like 1X</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>DS02</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6541711343729</id>
+    <published>2021-03-17T19:04:34-05:00</published>
+    <updated>2021-03-17T19:04:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-leopard-print-shorts"/>
+    <title>Plus Size Leopard Print Shorts</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/7BA0228C-FA33-44D7-88BB-069B685A7C21.jpg?v=1615121750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Order one size up for looser fit.</p>
+<p><strong>Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6541711343729</id>
+      <title>XL/1X</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LP02</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6541711343729</id>
+      <title>1X/2X</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LP02</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6541711343729</id>
+      <title>2X/3X</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LP02</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4653809991793</id>
+    <published>2021-02-03T18:41:28-06:00</published>
+    <updated>2021-02-03T18:41:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-joggers-with-drawstring-waistband-pockets-and-cuffed-hems-1"/>
+    <title>Plus Size Joggers with Drawstring Waistband, Pockets, and Cuffed Hems</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/E038FEA0-6D33-4349-B83A-AD19BAEF0040_2d3c2649-9472-45fd-9abe-eca53bfd67b1.jpeg?v=1611665116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653809991793</id>
+      <title>1X / Black</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JPBL</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653809991793</id>
+      <title>1X / Burgundy</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JPBU</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653809991793</id>
+      <title>2X / Black</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JPBL</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653809991793</id>
+      <title>2X / Burgundy</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JPBU</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653809991793</id>
+      <title>3X / Black</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JPBL</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653809991793</id>
+      <title>3X / Burgundy</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JPBU</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4653796884593</id>
+    <published>2021-02-03T13:49:22-06:00</published>
+    <updated>2021-02-03T13:49:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/extra-plus-size-capris-with-elastic-waistband"/>
+    <title>Extra Plus Size Capris with Elastic Waistband</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/8798E789-DDB8-4D51-8409-307BE5FC037D.jpg?v=1611664801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Fit: </strong>﻿O/S fits 16-20</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653796884593</id>
+      <title>Navy</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LN12</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4653796884593</id>
+      <title>Black</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>LB12</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4654713634929</id>
+    <published>2021-02-03T13:40:46-06:00</published>
+    <updated>2021-02-03T13:40:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-legging-with-yoga-waistband-1"/>
+    <title>Black Plus Size Legging with Yoga Waistband</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/056EE0A2-6FE4-4BDC-AEDD-B059541A02F8_f9d9477e-8475-4254-a7b2-28b74045972e.jpg?v=1611756536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Fit: </strong>﻿O/S fits 12-16.</p>
+<p><strong>﻿Material: </strong>﻿92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>In black.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4654713634929</id>
+      <title>Black</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>YPBL</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4636352970865</id>
+    <published>2021-01-02T07:05:06-06:00</published>
+    <updated>2021-01-02T07:05:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plus-size-solid-legging-with-elastic-waistband-1"/>
+    <title>Black Plus Size Solid Legging with Elastic Waistband</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/B530E056-98AA-497A-B013-76E14BACDE80.jpg?v=1608608048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit:</strong> ﻿﻿Plus fits 12-16.</p>
+<p><strong>Material:</strong> 92% Polyester, 8% Spandex.</p>
+<p><strong>Care:</strong> Hand wash in cold water. Hang to dry.﻿</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4636352970865</id>
+      <title>Black</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>28BP</s:sku>
+      <s:grams>163</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/4636350578801</id>
+    <published>2021-01-02T06:48:09-06:00</published>
+    <updated>2021-01-02T06:48:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/extra-plus-solid-legging-with-elastic-waistband"/>
+    <title>Extra Plus Solid Legging with Elastic Waistband</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/2FF50F41-0B6C-451A-9816-A4FED97B7FB5.jpg?v=1608607862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Fit:</strong> ﻿﻿Fits sizes 16-20.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong> 92% Polyester, 8% Spandex.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Care:</strong> Hand wash in cold water. Hang to dry.﻿</p>
+<p data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4636350578801</id>
+      <title>Navy</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>EXNV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/4636350578801</id>
+      <title>Black</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>EXBL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

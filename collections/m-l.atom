@@ -1,0 +1,1438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wazziswear.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wazziswear.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wazziswear.ca/collections/m-l.atom"/>
+  <title>Wazzi&apos;s Wear</title>
+  <updated>2021-08-08T11:39:49-05:00</updated>
+  <author>
+    <name>Wazzi&apos;s Wear</name>
+  </author>
+  <entry>
+    <id>https://wazziswear.ca/products/6612942979185</id>
+    <published>2021-08-08T11:39:49-05:00</published>
+    <updated>2021-08-08T11:39:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/v-neck-top-colorblock-top-with-button-detail"/>
+    <title>V-Neck Thermal Waffle Top Colorblock Top with Button Detail</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/6D1E8FD5-524B-4FCA-8B2A-D38FAAFC5A58.jpg?v=1627910528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit. </p>
+<p><strong>Material: </strong>Polyester, Rayon, Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>In green/black only. Model is wearing a S/M. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6612942979185</id>
+      <title>S/M</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB67</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6612942979185</id>
+      <title>M/L</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB67</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6612942979185</id>
+      <title>L/XL</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB67</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6612909981809</id>
+    <published>2021-08-08T11:39:48-05:00</published>
+    <updated>2021-08-08T11:39:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/camo-v-neck-top-with-button-detail"/>
+    <title>Camo V-Neck Top with Button Detail</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/A8659D15-C3F0-4D68-9E0E-299366F38F48.jpg?v=1627822553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit. </p>
+<p><strong>Material: </strong>63% Polyester, 33% Rayon, 4% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing a small.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6612909981809</id>
+      <title>S</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB71</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6612909981809</id>
+      <title>M</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB71</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6612909981809</id>
+      <title>L</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB71</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6612909981809</id>
+      <title>XL</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB71</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6612896546929</id>
+    <published>2021-08-08T11:39:47-05:00</published>
+    <updated>2021-08-08T11:39:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/waffle-v-neck-top-with-button-detail"/>
+    <title>Waffle V-Neck Top with Button Detail</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/85735C61-45FB-4439-A384-6A7B4E7E85C0.jpg?v=1627821930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit. </p>
+<p><strong>Material: </strong>77% Polyester, 22% Rayon, 1% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>In black only. Model is wearing a small. Note: somewhat see-thru.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6612896546929</id>
+      <title>S</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB70</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6612896546929</id>
+      <title>M</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB70</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6612896546929</id>
+      <title>L</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB70</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6612896546929</id>
+      <title>XL</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB70</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611696779377</id>
+    <published>2021-08-08T11:39:46-05:00</published>
+    <updated>2021-08-08T11:39:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/yoga-waist-activewear-legging-with-side-pocket"/>
+    <title>Yoga Waist Activewear Legging with Side Pocket</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/87DA41B3-0273-495A-9C8C-4644951BA08E.jpg?v=1627519830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>84% Polyester, 16% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Machine was cold. </p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611696779377</id>
+      <title>S</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>AC12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611696779377</id>
+      <title>M</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>AC12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611696779377</id>
+      <title>L</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>AC12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611696779377</id>
+      <title>XL</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>AC12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611694846065</id>
+    <published>2021-08-08T11:39:45-05:00</published>
+    <updated>2021-08-08T11:39:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/waffle-colorblock-tunic"/>
+    <title>Waffle Colorblock Tunic</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/B3A6CF62-FBC7-4E93-BCF6-0185A4B1A785.jpg?v=1627519206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit. </p>
+<p><strong>Material: </strong>77% Polyester, 22% Rayon, 1% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing a small. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611694846065</id>
+      <title>S</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>BB85</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611694846065</id>
+      <title>M</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>BB85</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611694846065</id>
+      <title>XL</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>BB85</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611693142129</id>
+    <published>2021-08-08T11:39:44-05:00</published>
+    <updated>2021-08-08T11:39:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/waffle-v-neck-striped-top-with-button-detail"/>
+    <title>Waffle V-Neck Striped Top with Button Detail</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/B17E55C1-D81D-43C9-8F8D-DA6CF85DEAC6.jpg?v=1627519037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit. </p>
+<p><strong>Material: </strong>68% Polyester, 29% Rayon, 3% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing a small. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611693142129</id>
+      <title>S</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB86</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611693142129</id>
+      <title>M</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB86</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611693142129</id>
+      <title>L</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB86</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611693142129</id>
+      <title>XL</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB86</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611680854129</id>
+    <published>2021-08-08T11:39:44-05:00</published>
+    <updated>2021-08-08T11:39:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/thermal-waffle-top-with-leopard-print-sleeves"/>
+    <title>Thermal Waffle Top with Leopard Print Sleeves</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/B0158DCD-6C37-4E43-8797-E085B67F09E4.jpg?v=1628438603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit. </p>
+<p><strong>Material: </strong>87% Polyester, 10% Rayon, 3% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing a S/M. See second photo for accurate color.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611680854129</id>
+      <title>S/M</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>BB30</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611680854129</id>
+      <title>M/L</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>BB30</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611680854129</id>
+      <title>L/XL</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>BB30</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611680493681</id>
+    <published>2021-08-08T11:39:43-05:00</published>
+    <updated>2021-08-08T11:39:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/cowl-neck-striped-top-with-pin-stripe-hem-and-cuffs"/>
+    <title>Cowl Neck Striped Top with Pin Stripe Hem and Cuffs</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/07101A67-9770-4205-AB83-FADB183FA31F.jpg?v=1627514709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit. </p>
+<p><strong>Material: </strong>62% Polyester, 34% Rayon, 4% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing a S/M.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611680493681</id>
+      <title>S/M</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>BB93</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611680493681</id>
+      <title>M/L</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>BB93</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611680493681</id>
+      <title>L/XL</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>BB93</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611679641713</id>
+    <published>2021-08-08T11:39:42-05:00</published>
+    <updated>2021-08-08T11:39:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/hacci-sweater-with-leopard-lined-cowl-neck-and-kangaroo-pocket"/>
+    <title>Hacci Sweater with Leopard Lined Cowl Neck and Kangaroo Pocket</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/03877865-3710-456D-AEBF-B5E7EB821004.jpg?v=1627514453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            40.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit. </p>
+<p><strong>Material: </strong>85% Polyester, 10% Rayon, 5% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing a S/M.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611679641713</id>
+      <title>S/M</title>
+      <s:price currency="CAD">40.18</s:price>
+      <s:sku>BB87</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611679641713</id>
+      <title>M/L</title>
+      <s:price currency="CAD">40.18</s:price>
+      <s:sku>BB87</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611679641713</id>
+      <title>L/XL</title>
+      <s:price currency="CAD">40.18</s:price>
+      <s:sku>BB87</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611678527601</id>
+    <published>2021-08-08T11:39:41-05:00</published>
+    <updated>2021-08-08T11:39:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/french-terry-double-hoodie-with-kangaroo-pocket"/>
+    <title>French Terry Double Hoodie with Kangaroo Pocket</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/B855D74A-0479-4790-BC88-42B603F6D167.jpg?v=1627514143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            40.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit. </p>
+<p><strong>Material: </strong>87% Polyester, 10% Rayon, 3% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing a S/M.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611678527601</id>
+      <title>S/M</title>
+      <s:price currency="CAD">40.18</s:price>
+      <s:sku>BB73</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611678527601</id>
+      <title>M/L</title>
+      <s:price currency="CAD">40.18</s:price>
+      <s:sku>BB73</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611678527601</id>
+      <title>L/XL</title>
+      <s:price currency="CAD">40.18</s:price>
+      <s:sku>BB73</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611678199921</id>
+    <published>2021-08-08T11:39:40-05:00</published>
+    <updated>2021-08-08T11:39:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/thermal-waffle-colorblock-tunic-with-striped-cuffs-1"/>
+    <title>Thermal Waffle Colorblock Tunic with Striped Cuffs</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/21C72737-0951-45E9-B721-CA789959C841.jpg?v=1627514029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit. </p>
+<p><strong>Material: </strong>70% Polyester, 28% Rayon, 2% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing a S/M. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611678199921</id>
+      <title>S/M</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB10</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611678199921</id>
+      <title>M/L</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB10</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611678199921</id>
+      <title>L/XL</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB10</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611677806705</id>
+    <published>2021-08-08T11:39:39-05:00</published>
+    <updated>2021-08-08T11:39:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/thermal-waffle-colorblock-tunic-with-striped-cuffs"/>
+    <title>Thermal Waffle Colorblock Tunic with Striped Cuffs</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/46D3F5E3-C272-42B8-8D30-F640BF1E4C33.jpg?v=1627513940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit. </p>
+<p><strong>Material: </strong>70% Polyester, 28% Rayon, 2% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing a S/M. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611677806705</id>
+      <title>S/M</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB15</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611677806705</id>
+      <title>M/L</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB15</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611677806705</id>
+      <title>L/XL</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>BB15</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611677249649</id>
+    <published>2021-08-08T11:39:38-05:00</published>
+    <updated>2021-08-08T11:39:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/sweater-knit-top-with-leopard-sleeves-and-button-detail"/>
+    <title>Sweater Knit Top with Leopard Sleeves and Button Detail</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/9F705BF2-EB94-4741-8425-EC127A4B0007.jpg?v=1627513766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit.</p>
+<p><strong>Material: </strong>Polyester, Rayon, Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing a S/M. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611677249649</id>
+      <title>S/M</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>BB13</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611677249649</id>
+      <title>M/L</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>BB13</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611677249649</id>
+      <title>L/XL</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>BB13</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611659522161</id>
+    <published>2021-08-08T11:39:37-05:00</published>
+    <updated>2021-08-08T11:39:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/french-terry-tunic-with-side-pockets"/>
+    <title>French Terry Tunic with Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/B667572F-1610-420B-A95B-2F255A1013B6.jpg?v=1627508194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿True to size.</p>
+<p><strong>Material: </strong>95% Rayon, 5% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing S/M.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611659522161</id>
+      <title>S/M</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>R383</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611659522161</id>
+      <title>M/L</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>R383</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611659522161</id>
+      <title>L/XL</title>
+      <s:price currency="CAD">31.25</s:price>
+      <s:sku>R383</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611652640881</id>
+    <published>2021-08-08T11:39:36-05:00</published>
+    <updated>2021-08-08T11:39:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/soft-hacci-buffalo-plaid-tunic"/>
+    <title>Soft Hacci Buffalo Plaid Tunic</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/2DA6CE57-3348-442A-B571-46D1CDB7A5C0.jpg?v=1627508030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>96% Polyester, 4% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing a S/M.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611652640881</id>
+      <title>S/M</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>R425</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611652640881</id>
+      <title>M/L</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>R425</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611652640881</id>
+      <title>L/XL</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>R425</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611621216369</id>
+    <published>2021-08-08T11:39:35-05:00</published>
+    <updated>2021-08-08T11:39:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/soft-hacci-plaid-cardigan-with-side-pockets"/>
+    <title>Soft Hacci Plaid Cardigan with Side Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/F71898BB-CD69-4ACD-A548-ECE41392E4C9.jpg?v=1627501482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit.</p>
+<p><strong>Material: </strong>96% Polyester, 4% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing S/M.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611621216369</id>
+      <title>S/M</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>ER83</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611621216369</id>
+      <title>M/L</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>ER83</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611621216369</id>
+      <title>L/XL</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>ER83</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611620921457</id>
+    <published>2021-08-08T11:39:34-05:00</published>
+    <updated>2021-08-08T11:39:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/soft-hacci-asymmetrical-tunic-with-button-detail"/>
+    <title>Soft Hacci Asymmetrical Tunic with Button Detail</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/DB723609-1745-4A60-929B-9E502FCDB51A.jpg?v=1627501387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit.</p>
+<p><strong>Material: </strong>Polyester, Rayon, Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing S/M.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611620921457</id>
+      <title>S/M</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>ER40</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611620921457</id>
+      <title>M/L</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>ER40</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611620921457</id>
+      <title>L/XL</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>ER40</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611620659313</id>
+    <published>2021-08-08T11:39:30-05:00</published>
+    <updated>2021-08-08T11:39:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/soft-hacci-colorblock-tunic-with-front-pocket"/>
+    <title>Soft Hacci Colorblock Tunic with Front Pocket</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/F5DACC03-C561-4EA9-A04F-C2483E0005D5.jpg?v=1627501286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit. </p>
+<p><strong>Material: </strong>Polyester, Rayon, Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing a S/M. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611620659313</id>
+      <title>S/M</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>ER78</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611620659313</id>
+      <title>M/L</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>ER78</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611620659313</id>
+      <title>L/XL</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>ER78</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611620298865</id>
+    <published>2021-08-08T11:39:29-05:00</published>
+    <updated>2021-08-08T11:39:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/ribbed-hacci-tunic-with-side-slits"/>
+    <title>Ribbed Hacci Tunic with Side Slits</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/3A2124AE-80DF-4109-8FED-375C4D2391AF.jpg?v=1627501150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit.</p>
+<p><strong>Material: </strong>96% Polyester, 4% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing S/M.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611620298865</id>
+      <title>S/M</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>ER73</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611620298865</id>
+      <title>M/L</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>ER73</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611620298865</id>
+      <title>L/XL</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>ER73</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6610137055345</id>
+    <published>2021-08-08T11:39:17-05:00</published>
+    <updated>2021-08-08T11:39:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/animal-print-lounge-pants-with-high-drawstring-waist-and-pockets"/>
+    <title>Animal Print Lounge Pants with High Drawstring Waist and Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/E9CB394C-D52B-4F23-8A24-3F27CF7B5C8B.jpg?v=1627240371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610137055345</id>
+      <title>S</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>AN15</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610137055345</id>
+      <title>M</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>AN15</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610137055345</id>
+      <title>L</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>AN15</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610137055345</id>
+      <title>XL</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>AN15</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6610136924273</id>
+    <published>2021-08-08T11:39:16-05:00</published>
+    <updated>2021-08-08T11:39:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/tie-dye-lounge-pants-with-high-drawstring-waist-and-pockets-1"/>
+    <title>Tie Dye Lounge Pants with High Drawstring Waist and Pockets</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/5578D000-93CE-443C-BB9B-395797FCEC06.jpg?v=1627240106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136924273</id>
+      <title>S</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>TD52</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136924273</id>
+      <title>M</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>TD52</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136924273</id>
+      <title>L</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>TD52</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136924273</id>
+      <title>XL</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>TD52</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6610136793201</id>
+    <published>2021-08-08T11:39:15-05:00</published>
+    <updated>2021-08-08T11:39:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/plaid-lounge-pants-with-high-drawstring-waist"/>
+    <title>Plaid Lounge Pants with High Drawstring Waist</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/5C86A27D-260A-43C8-8CC5-73D2296BB7A6.jpg?v=1627239864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Relaxed fit.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136793201</id>
+      <title>S</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>PL66</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136793201</id>
+      <title>M</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>PL66</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136793201</id>
+      <title>L</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>PL66</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136793201</id>
+      <title>XL</title>
+      <s:price currency="CAD">22.32</s:price>
+      <s:sku>PL66</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6610136465521</id>
+    <published>2021-08-08T11:39:13-05:00</published>
+    <updated>2021-08-08T11:39:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/camo-joggers-with-drawstring-waistband-pockets-and-cuffed-hems"/>
+    <title>Camo Joggers with Drawstring Waistband, Pockets, and Cuffed Hems</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/91EE1BA7-ECFA-402C-BB3A-BA0AACE26A91.jpg?v=1627239458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136465521</id>
+      <title>S</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CA21</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136465521</id>
+      <title>M</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CA21</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136465521</id>
+      <title>L</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CA21</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610136465521</id>
+      <title>XL</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>CA21</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6610135187569</id>
+    <published>2021-08-08T11:39:12-05:00</published>
+    <updated>2021-08-08T11:39:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/joggers-with-drawstring-waistband-pockets-and-cuffed-hems-1"/>
+    <title>Joggers with Drawstring Waistband, Pockets, and Cuffed Hems</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/1D806C0D-E392-4932-811B-6873B518596E.jpg?v=1627239107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit.</p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water.  Hang to dry.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610135187569</id>
+      <title>S / Black</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JG12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610135187569</id>
+      <title>S / Burgundy</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JG13</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610135187569</id>
+      <title>M / Black</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JG12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610135187569</id>
+      <title>M / Burgundy</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JG13</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610135187569</id>
+      <title>L / Black</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JG12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610135187569</id>
+      <title>L / Burgundy</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JG13</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610135187569</id>
+      <title>XL / Black</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JG12</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6610135187569</id>
+      <title>XL / Burgundy</title>
+      <s:price currency="CAD">26.78</s:price>
+      <s:sku>JG13</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wazziswear.ca/products/6611695370353</id>
+    <published>2021-08-08T10:55:56-05:00</published>
+    <updated>2021-08-08T10:55:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wazziswear.ca/products/tie-dye-soft-knit-hoodie-with-kangaroo-pocket"/>
+    <title>Tie Dye Soft Knit Hoodie with Kangaroo Pocket</title>
+    <s:type></s:type>
+    <s:vendor>Wazzi&apos;s Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/9214/8337/products/F8D5F303-6C1D-4FDB-BA88-09F95E4D83D7.jpg?v=1627519388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wazzi&#39;s Wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fit: </strong>﻿Larger, relaxed fit. </p>
+<p><strong>Material: </strong>92% Polyester, 8% Spandex.</p>
+<p><strong>﻿Care: </strong>﻿Hand wash in cold water. Hang to dry.</p>
+<p>Model is wearing a small.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611695370353</id>
+      <title>S</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>BB18</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611695370353</id>
+      <title>M</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>BB18</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611695370353</id>
+      <title>L</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>BB18</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wazziswear.ca/products/6611695370353</id>
+      <title>XL</title>
+      <s:price currency="CAD">35.71</s:price>
+      <s:sku>BB18</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+</feed>
